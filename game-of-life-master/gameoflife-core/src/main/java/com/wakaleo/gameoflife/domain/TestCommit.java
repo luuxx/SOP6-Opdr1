@@ -11,7 +11,7 @@ package com.wakaleo.gameoflife.domain;
  */
 public class TestCommit {
    
-    String woord = "hoi";
+    String woord = "random";
     
     public TestCommit()
     {
