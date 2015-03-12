@@ -10,7 +10,9 @@ package com.wakaleo.gameoflife.domain;
  * @author Maarten
  */
 public class TestCommit {
-    //test commit
+   
+    String woord = "hoi";
+    
     public TestCommit()
     {
         
