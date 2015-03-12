@@ -11,7 +11,7 @@ package com.wakaleo.gameoflife.domain;
  */
 public class TestClass {
     
-    String test = "testen";
+    String test = "test";
     
     public TestClass()
     {
