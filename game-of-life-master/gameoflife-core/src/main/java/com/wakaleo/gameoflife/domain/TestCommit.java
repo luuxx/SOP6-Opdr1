@@ -11,4 +11,8 @@ package com.wakaleo.gameoflife.domain;
  */
 public class TestCommit {
     //test commit
+    public TestCommit()
+    {
+        
+    }
 }
