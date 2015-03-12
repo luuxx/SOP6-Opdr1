@@ -10,6 +10,9 @@ package com.wakaleo.gameoflife.domain;
  * @author Maarten
  */
 public class TestClass {
+    
+    String test = "test";
+    
     public TestClass()
     {
         
