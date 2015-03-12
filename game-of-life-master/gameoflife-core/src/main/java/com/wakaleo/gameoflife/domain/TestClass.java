@@ -10,5 +10,9 @@ package com.wakaleo.gameoflife.domain;
  * @author Maarten
  */
 public class TestClass {
+    public TestClass()
+    {
+        
+    }
     
 }
