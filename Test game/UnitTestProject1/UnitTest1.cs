@@ -18,7 +18,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestIfTrue()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
         [TestMethod]
         public void TestIfOne()
